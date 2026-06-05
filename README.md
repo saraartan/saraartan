@@ -1,81 +1,49 @@
 ![banner](banner.png)
-# Hi, I'm Sara 👋
+👋 Hi, I’m Sara
 
-### DevOps Engineer | AWS • Linux • Terraform • Docker • Networking
+DevOps / Cloud Engineer (AWS • Terraform • Linux • Docker)
+I build and automate cloud infrastructure using real-world DevOps practices and Infrastructure as Code.
 
-Building cloud infrastructure, automating deployments, and creating reliable systems through Infrastructure as Code.
+🚀 About Me
 
----
+I design and deploy cloud infrastructure using AWS, Terraform, Docker, and Linux.
 
-## 🚀 About Me
+I focus on building systems that are automated, scalable, and reliable, using hands-on projects that replicate real production environments.
 
-I'm a DevOps Engineer focused on cloud infrastructure, automation, Linux administration, and networking.
+🧠 What I’m Focused On
+Cloud Infrastructure (AWS)
+Infrastructure as Code (Terraform)
+CI/CD & automation workflows
+Linux system administration
+Networking fundamentals
+Containerization with Docker
+Cloud security basics
+🛠️ Tech Stack
 
-I build hands-on projects that simulate real-world environments using AWS, Terraform, Docker, and Linux. My goal is to create scalable, secure, and maintainable infrastructure while continuously improving operational efficiency through automation.
+AWS • Terraform • Docker • Linux • Bash • Git • GitHub • NGINX
 
-I enjoy:
+📂 Featured Project — DevOps-Learning
 
-* Automating repetitive tasks
-* Building AWS infrastructure from the ground up
-* Designing and troubleshooting network environments
-* Managing Linux systems
-* Containerizing applications with Docker
-* Documenting technical solutions and workflows
+A hands-on DevOps lab built to simulate real-world cloud infrastructure and automation workflows.
 
----
+What it includes:
+AWS VPC design (public and private subnets)
+EC2 provisioning and configuration
+Infrastructure as Code using Terraform
+Docker container deployment
+Linux server administration and automation
+NGINX reverse proxy setup
+Networking and troubleshooting labs
+Purpose:
 
-## 🛠️ Technologies & Tools
+Built to practice real DevOps workflows and simulate production-grade cloud environments using automation and Infrastructure as Code.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,git,github,python" />
-</p>
+🎯 Goal
 
----
+To become a production-ready DevOps / Cloud Engineer capable of designing and automating scalable infrastructure in AWS.
 
-## 📂 Featured Project
+💡 Mindset
 
-### Devops-Learning
-
-A centralized repository of DevOps projects covering cloud infrastructure, automation, networking, Linux administration, and containerization.
-
-#### Highlights
-
-* AWS VPC architecture and networking
-* EC2 deployment and administration
-* Infrastructure as Code with Terraform
-* Docker container deployment
-* Linux administration and Bash automation
-* NGINX configuration and web services
-* Networking and troubleshooting labs
-
----
-
-## 📈 Current Focus
-
-* Cloud Infrastructure Engineering
-* Infrastructure as Code
-* Automation & Scripting
-* CI/CD Pipelines
-* Kubernetes
-* Cloud Security
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraartan\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saraartan\&layout=compact)
-
----
-
-## 🎯 Building With
-
-AWS • Terraform • Docker • Linux • Bash • Git • GitHub • Python
-
----
-
-> "Reliable systems are built through automation, documentation, and continuous improvement."
-
+“Good infrastructure is automated, repeatable, and reliable.”
 
 
