@@ -1,3 +1,4 @@
+![banner](banner.png)
 # Hi, I'm Sara 👋
 
 ### DevOps Engineer | AWS • Linux • Terraform • Docker • Networking
